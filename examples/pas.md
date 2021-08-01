@@ -8,6 +8,8 @@
 | [Plot the track for a user specified storm](ibtracs/track_tc.ipynb)| [download the jupyterlab source](ibtracs/track_tc.ipynb) |
 
 
+| [Plot genesis points of all tropical cyclones for a selected range of months](ibtracs/monthly_genesis_locations.ipynb)| [download the jupyterlab source](ibtracs/monthly_genesis_locations.ipynb) |
+
 ### Some examples that manipulate dates
 
 | [Create a list of dates using pandas](dates/list_of_dates.ipynb)| [download the jupyterlab source](dates/list_of_dates.ipynb) |
