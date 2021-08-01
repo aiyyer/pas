@@ -1,9 +1,0 @@
-Python for Atmospheric Science by Example
-========================================
-
-
-|[Create a list of dates using pandas](list_of_dates.ipynb)| [download the jupyterlab source](list_of_dates.ipynb)|
-
-
-|[Read the IBTrACS Tropical Cyclone Track dataset and plot the genesis location
-for a user specified range of months](TC_formation_by_month.ipynb)| [download the jupyterlab source](TC_formation_by_month.ipynb)|
